@@ -1,0 +1,77 @@
+h1, h2, h3{
+    font-family: 'Courier New', monospace;
+    font-weight: 550;
+    color: #ffd4b9;
+}
+
+iframe {
+    display: block;
+    position: absolute;
+    width: 50%;
+    height: 100%;
+}
+
+p{
+    text-align: center;
+}
+
+.bio{
+    text-align: center;
+    width: 50%;
+
+    max-width: 700px;
+    margin: auto;
+}
+
+.body-container{
+    position: relative;
+}
+
+.essay {
+    max-width: 700px;
+    margin: auto;
+}
+
+.myessay_background{
+    background-image: linear-gradient(to right, #3f3321, #141202);
+}
+
+.navbar-design{
+    background-image: linear-gradient(to right, #3f3321, #141202);
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
+    font-weight: 550;
+}
+
+.nightline{
+    width: 100vw;
+    height: 100vh;
+}
+
+.options{
+    color: #ffd4b9;
+}
+
+.subtitle-location{
+    color: #ffd4b9;
+    position: absolute;
+    top: 34%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.subtitle-name{
+    color: #ffd4b9;
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title{
+    color: #ffd4b9;
+    position: absolute;
+    top: 28%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
