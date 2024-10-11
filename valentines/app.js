@@ -114,7 +114,7 @@ btnNo.addEventListener('click', () =>{
     }
 
     else if (clicks == 21){
-        btnNo.innerText = "ill give u head";
+        btnNo.innerText = "ill give u the sewing kit you wanted";
     }
 
     else if (clicks == 22){
@@ -161,8 +161,16 @@ btnNo.addEventListener('click', () =>{
         btnNo.innerText = "bc i love you";
     }
 
-    else if (clicks > 32){
-        btnNo.innerText = "i love you michy";
+    else if (clicks == 33){
+        btnNo.innerText = "you've done so much for me";
+    }
+
+    else if (clicks == 34){
+        btnNo.innerText = "ill do this for u";
+    }
+
+    else if (clicks > 34){
+        btnNo.innerText = "i love you michelle";
     }
 
 });
