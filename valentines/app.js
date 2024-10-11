@@ -106,7 +106,7 @@ btnNo.addEventListener('click', () =>{
     }
 
     else if (clicks == 19){
-        btnNo.innerText = "what u said ;)";
+        btnNo.innerText = "i'll give u the sewing kit u want";
     }
 
     else if (clicks == 20){
